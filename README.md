@@ -3,7 +3,7 @@ ERP - Baseado em Codeigniter
 
 [ Codeigniter 2.2.1 ] [ HMVC ] [ GroceryCrud 1.5.0 ]
 
-Informações sobre os múdlos utilizados:
+Informações sobre os módulos utilizados:
 
 HMVC
 https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc
