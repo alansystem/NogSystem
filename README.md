@@ -1,4 +1,4 @@
-# NogSystem
+# NogSystem 1.0.12
 ERP - Baseado em Codeigniter
 
 [ Codeigniter 2.2.1 ] [ HMVC ] [ GroceryCrud 1.5.0 ]
@@ -22,5 +22,3 @@ https://github.com/meritoo/Bootstrap-3-Admin-Theme
 Um projeto Open Source baseado em Codeigniter 2.x (versão atual e estável). No momento já foi lançado a versão 3, mas alguns módulos que serão utilizados nesse projeto ainda não são compatíveis com versão atual do codeigniter por ser recente.
 
 Assim que a versão 3 do codeigniter ficar estável, iremos providenciar a atualização imediatamente.
-
-<?php echo 'NogSystem'; ?>
