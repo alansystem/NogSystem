@@ -8,7 +8,7 @@ Informações sobre os módulos utilizados:
 HMVC
 https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc
 
-<img src="http://www.facebook.com/l.php?u=http%3A%2F%2Fi.imgur.com%2FNxoBIBY.png&h=5AQE7DDw8" />
+<img src="http://i.imgur.com/NxoBIBY.png" />
 
 GroceryCrud
 http://www.grocerycrud.com/
