@@ -12,6 +12,11 @@ class Fornecedor extends CI_Controller {
 		
 	}
 
+	public function cadastro()
+	{
+		....
+	}
+
 }
 
 /* End of file fornecedor.php */
