@@ -1,9 +1,9 @@
-# NogSystem CI 3
+# NogSystem - CI
 ERP - Baseado em Codeigniter
 
-[ Codeigniter 3.x ] [ HMVC ] [ GroceryCrud 1.5.0 ]
+[ Codeigniter 2.x - Versão Estável ] [ HMVC ] [ GroceryCrud 1.5.0 ]
 
-Um projeto Open Source baseado em Codeigniter 3.x (versão ainda em desenvolvimento, porém com novidades consideráveis). 
+Um projeto Open Source baseado em Codeigniter 2.x (versão mais estável até momento). 
 
 
 ############################################################################################
