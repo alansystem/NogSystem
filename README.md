@@ -1,4 +1,4 @@
-# NogSystem 1.1.6
+# NogSystem CI 3
 ERP - Baseado em Codeigniter
 
 [ Codeigniter 3.x ] [ HMVC ] [ GroceryCrud 1.5.0 ]
