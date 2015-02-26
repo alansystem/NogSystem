@@ -7,10 +7,11 @@ class MY_Controller extends CI_Controller {
 		parent::__construct();
 	}
 
-	public function layout($data=null)
+	public function layout($page,$data=null)
 	{
-		echo modules::run('layout/header',$data);
-		echo modules::run('layout/footer',$data);
+		$this->load->view('header',$data);
+		$this->load->view($page,$data);
+		$this->load->view('footer',$data);;
 	}
 
 }
