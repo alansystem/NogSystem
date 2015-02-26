@@ -10,7 +10,7 @@ class Dashboard extends MY_Controller {
 	//Layout Padrão
 	public function index()
 	{
-		$this->layout();
+		$this->layout('dashboard');
 	}
 
 }
